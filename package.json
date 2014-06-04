@@ -1,0 +1,28 @@
+{
+  "name": "grunt-webfont-template",
+  "version": "0.0.1",
+  "description": "Custom template for grunt-webfont module",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-webfont": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arnogues/grunt-webfont-template.git"
+  },
+  "keywords": [
+    "grunt-webfont",
+    "template"
+  ],
+  "author": "Arnaud Gueras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnogues/grunt-webfont-template/issues"
+  },
+  "homepage": "https://github.com/arnogues/grunt-webfont-template"
+}
